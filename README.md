@@ -1,4 +1,3 @@
-content = """# Brute Force Profit Maximizer
 
 ## Description  
 This Python script implements a brute force algorithm to maximize profits by analyzing numerical sequences and identifying patterns. It processes a list of numerical inputs, applies specific transformations, and determines the most profitable instructed sequence based on recurring patterns.
